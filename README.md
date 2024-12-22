@@ -1,4 +1,4 @@
-# final-capstone-whack-a-mole
+# final-capstone-whack-a-mole/Whack-a-Zombie
  Final Capstone Project for CheggSkills - Whack-a-Mole
 
 /* Updated title to Whack-a-Zombie */
